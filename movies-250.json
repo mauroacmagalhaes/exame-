@@ -1,0 +1,887 @@
+[
+  {
+    "id": 1,
+    "title": "O Poderoso Chefão",
+    "year": 1972,
+    "genre": "Drama",
+    "director": "Francis Ford Coppola",
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "plot": "O patriarca de uma família mafiosa de Nova Iorque transfere gradualmente o controlo do império criminoso ao filho mais relutante.",
+    "imdb": 9.2,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=O+Poderoso+Chefão&font=playfair-display"
+  },
+  {
+    "id": 2,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime",
+    "director": "Quentin Tarantino",
+    "actors": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "plot": "As vidas de dois assassinos a soldo, um boxeador e um casal de assaltantes cruzam-se em Los Angeles numa narrativa não linear.",
+    "imdb": 8.9,
+    "poster": "https://placehold.co/400x600/2b2b2b/c9a227?text=Pulp+Fiction&font=playfair-display"
+  },
+  {
+    "id": 3,
+    "title": "A Origem",
+    "year": 2010,
+    "genre": "Ficção Científica",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "plot": "Um ladrão especializado em roubar segredos através dos sonhos recebe a missão inversa de implantar uma ideia na mente de um alvo.",
+    "imdb": 8.8,
+    "poster": "https://placehold.co/400x600/1b2a4a/8fd3ff?text=A+Origem&font=playfair-display"
+  },
+  {
+    "id": 4,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Robert Zemeckis",
+    "actors": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "plot": "Um homem de bom coração e intelecto limitado atravessa décadas de história americana influenciando acontecimentos importantes sem se aperceber.",
+    "imdb": 8.8,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=Forrest+Gump&font=playfair-display"
+  },
+  {
+    "id": 5,
+    "title": "O Cavaleiro das Trevas",
+    "year": 2008,
+    "genre": "Ação",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "plot": "Batman enfrenta o Joker, um criminoso caótico que quer mergulhar Gotham City no terror e testar os limites morais do herói.",
+    "imdb": 9.0,
+    "poster": "https://placehold.co/400x600/4a1b1b/e0b84a?text=O+Cavaleiro+das+Trevas&font=playfair-display"
+  },
+  {
+    "id": 6,
+    "title": "Clube de Combate",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "David Fincher",
+    "actors": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Helena Bonham Carter"
+    ],
+    "plot": "Um funcionário de escritório insone forma um clube de luta clandestino com um vendedor de sabão carismático e imprevisível.",
+    "imdb": 8.8,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=Clube+de+Combate&font=playfair-display"
+  },
+  {
+    "id": 7,
+    "title": "Interestelar",
+    "year": 2014,
+    "genre": "Ficção Científica",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "plot": "Um grupo de astronautas atravessa um buraco de minhoca em busca de um novo lar para a humanidade num planeta moribundo.",
+    "imdb": 8.7,
+    "poster": "https://placehold.co/400x600/1b2a4a/8fd3ff?text=Interestelar&font=playfair-display"
+  },
+  {
+    "id": 8,
+    "title": "Parasitas",
+    "year": 2019,
+    "genre": "Drama",
+    "director": "Bong Joon-ho",
+    "actors": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "plot": "Uma família pobre infiltra-se gradualmente na vida de uma família rica, desencadeando uma espiral de consequências imprevisíveis.",
+    "imdb": 8.5,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=Parasitas&font=playfair-display"
+  },
+  {
+    "id": 9,
+    "title": "Gladiador",
+    "year": 2000,
+    "genre": "Ação",
+    "director": "Ridley Scott",
+    "actors": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "plot": "Um general romano traído torna-se escravo e gladiador, procurando vingança contra o imperador que assassinou a sua família.",
+    "imdb": 8.5,
+    "poster": "https://placehold.co/400x600/4a1b1b/e0b84a?text=Gladiador&font=playfair-display"
+  },
+  {
+    "id": 10,
+    "title": "Matrix",
+    "year": 1999,
+    "genre": "Ficção Científica",
+    "director": "Lana Wachowski",
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "plot": "Um programador descobre que a realidade é uma simulação controlada por máquinas e junta-se a rebeldes para a combater.",
+    "imdb": 8.7,
+    "poster": "https://placehold.co/400x600/1b2a4a/8fd3ff?text=Matrix&font=playfair-display"
+  },
+  {
+    "id": 11,
+    "title": "Titanic",
+    "year": 1997,
+    "genre": "Romance",
+    "director": "James Cameron",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "plot": "Um jovem artista e uma herdeira apaixonam-se a bordo do transatlântico que viria a afundar-se no seu trajeto inaugural.",
+    "imdb": 7.9,
+    "poster": "https://placehold.co/400x600/5a2436/f2c6d9?text=Titanic&font=playfair-display"
+  },
+  {
+    "id": 12,
+    "title": "O Rei Leão",
+    "year": 1994,
+    "genre": "Animação",
+    "director": "Roger Allers",
+    "actors": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
+    ],
+    "plot": "Um jovem leão foge do seu reino após a morte do pai e precisa de aceitar o seu destino para retomar o trono.",
+    "imdb": 8.5,
+    "poster": "https://placehold.co/400x600/1b4a3a/ffd166?text=O+Rei+Leão&font=playfair-display"
+  },
+  {
+    "id": 13,
+    "title": "Toy Story",
+    "year": 1995,
+    "genre": "Animação",
+    "director": "John Lasseter",
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "plot": "Um grupo de brinquedos vive aventuras secretas enquanto lida com o ciúme causado pela chegada de um novo brinquedo espacial.",
+    "imdb": 8.3,
+    "poster": "https://placehold.co/400x600/1b4a3a/ffd166?text=Toy+Story&font=playfair-display"
+  },
+  {
+    "id": 14,
+    "title": "Os Bons Rapazes",
+    "year": 1990,
+    "genre": "Crime",
+    "director": "Martin Scorsese",
+    "actors": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "plot": "A ascensão e queda de um jovem que cresce fascinado pelo estilo de vida da máfia italo-americana em Nova Iorque.",
+    "imdb": 8.7,
+    "poster": "https://placehold.co/400x600/2b2b2b/c9a227?text=Os+Bons+Rapazes&font=playfair-display"
+  },
+  {
+    "id": 15,
+    "title": "Se7en",
+    "year": 1995,
+    "genre": "Crime",
+    "director": "David Fincher",
+    "actors": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Gwyneth Paltrow"
+    ],
+    "plot": "Dois detetives perseguem um assassino em série que planeia os crimes seguindo os sete pecados capitais.",
+    "imdb": 8.6,
+    "poster": "https://placehold.co/400x600/2b2b2b/c9a227?text=Se7en&font=playfair-display"
+  },
+  {
+    "id": 16,
+    "title": "O Silêncio dos Inocentes",
+    "year": 1991,
+    "genre": "Terror",
+    "director": "Jonathan Demme",
+    "actors": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "plot": "Uma agente do FBI em treino pede ajuda a um psiquiatra canibal preso para capturar outro assassino em série.",
+    "imdb": 8.6,
+    "poster": "https://placehold.co/400x600/1a1a1a/8b2635?text=O+Silêncio+dos+Inocentes&font=playfair-display"
+  },
+  {
+    "id": 17,
+    "title": "Coringa",
+    "year": 2019,
+    "genre": "Drama",
+    "director": "Todd Phillips",
+    "actors": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "plot": "Um comediante fracassado e instável mergulha na loucura e no crime numa Gotham City decadente e hostil.",
+    "imdb": 8.4,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=Coringa&font=playfair-display"
+  },
+  {
+    "id": 18,
+    "title": "Vingadores: Ultimato",
+    "year": 2019,
+    "genre": "Ação",
+    "director": "Anthony Russo",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Scarlett Johansson"
+    ],
+    "plot": "Os heróis sobreviventes unem-se numa última tentativa de desfazer a devastação causada pelo vilão Thanos.",
+    "imdb": 8.4,
+    "poster": "https://placehold.co/400x600/4a1b1b/e0b84a?text=Vingadores:+Ultimato&font=playfair-display"
+  },
+  {
+    "id": 19,
+    "title": "A Lista de Schindler",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "Steven Spielberg",
+    "actors": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "plot": "Um empresário alemão arrisca a fortuna e a vida para salvar mais de mil judeus do extermínio durante a Segunda Guerra Mundial.",
+    "imdb": 9.0,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=A+Lista+de+Schindler&font=playfair-display"
+  },
+  {
+    "id": 20,
+    "title": "Star Wars: O Império Contra-Ataca",
+    "year": 1980,
+    "genre": "Ficção Científica",
+    "director": "Irvin Kershner",
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "plot": "Os rebeldes dispersam-se após um ataque imperial enquanto Luke Skywalker treina para se tornar um Jedi.",
+    "imdb": 8.7,
+    "poster": "https://placehold.co/400x600/1b2a4a/8fd3ff?text=Star+Wars:+O+Império+Contra-Ataca&font=playfair-display"
+  },
+  {
+    "id": 21,
+    "title": "Regresso ao Futuro",
+    "year": 1985,
+    "genre": "Aventura",
+    "director": "Robert Zemeckis",
+    "actors": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "plot": "Um adolescente viaja acidentalmente trinta anos no passado numa máquina do tempo e precisa de garantir o próprio nascimento.",
+    "imdb": 8.5,
+    "poster": "https://placehold.co/400x600/1b3a4a/ffd166?text=Regresso+ao+Futuro&font=playfair-display"
+  },
+  {
+    "id": 22,
+    "title": "Alien",
+    "year": 1979,
+    "genre": "Terror",
+    "director": "Ridley Scott",
+    "actors": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "plot": "A tripulação de uma nave de carga espacial é caçada por uma criatura letal e praticamente indestrutível.",
+    "imdb": 8.5,
+    "poster": "https://placehold.co/400x600/1a1a1a/8b2635?text=Alien&font=playfair-display"
+  },
+  {
+    "id": 23,
+    "title": "A Bela e o Monstro",
+    "year": 1991,
+    "genre": "Animação",
+    "director": "Gary Trousdale",
+    "actors": [
+      "Paige O'Hara",
+      "Robby Benson",
+      "Richard White"
+    ],
+    "plot": "Uma jovem leitora torna-se prisioneira de um príncipe amaldiçoado transformado em fera e aprende a olhar além da aparência.",
+    "imdb": 8.0,
+    "poster": "https://placehold.co/400x600/1b4a3a/ffd166?text=A+Bela+e+o+Monstro&font=playfair-display"
+  },
+  {
+    "id": 24,
+    "title": "Tudo em Todo o Lado ao Mesmo Tempo",
+    "year": 2022,
+    "genre": "Ficção Científica",
+    "director": "Daniel Kwan",
+    "actors": [
+      "Michelle Yeoh",
+      "Stephanie Hsu",
+      "Ke Huy Quan"
+    ],
+    "plot": "Uma imigrante sobrecarregada descobre que precisa de saltar entre universos paralelos para salvar a existência.",
+    "imdb": 8.0,
+    "poster": "https://placehold.co/400x600/1b2a4a/8fd3ff?text=Tudo+em+Todo+o+Lado+ao+Mesmo+Tempo&font=playfair-display"
+  },
+  {
+    "id": 25,
+    "title": "Whiplash",
+    "year": 2014,
+    "genre": "Drama",
+    "director": "Damien Chazelle",
+    "actors": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Melissa Benoist"
+    ],
+    "plot": "Um jovem baterista de jazz é empurrado ao limite por um professor implacável obcecado com a perfeição.",
+    "imdb": 8.5,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=Whiplash&font=playfair-display"
+  },
+  {
+    "id": 26,
+    "title": "A Rede Social",
+    "year": 2010,
+    "genre": "Drama",
+    "director": "David Fincher",
+    "actors": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake"
+    ],
+    "plot": "A história da criação do Facebook e das disputas legais e pessoais que se seguiram ao seu sucesso meteórico.",
+    "imdb": 7.7,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=A+Rede+Social&font=playfair-display"
+  },
+  {
+    "id": 27,
+    "title": "Django Livre",
+    "year": 2012,
+    "genre": "Ação",
+    "director": "Quentin Tarantino",
+    "actors": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio"
+    ],
+    "plot": "Um escravo liberto une-se a um caçador de recompensas alemão para resgatar a esposa das mãos de um cruel proprietário de plantação.",
+    "imdb": 8.5,
+    "poster": "https://placehold.co/400x600/4a1b1b/e0b84a?text=Django+Livre&font=playfair-display"
+  },
+  {
+    "id": 28,
+    "title": "Bastardos Inglórios",
+    "year": 2009,
+    "genre": "Ação",
+    "director": "Quentin Tarantino",
+    "actors": [
+      "Brad Pitt",
+      "Mélanie Laurent",
+      "Christoph Waltz"
+    ],
+    "plot": "Um grupo de soldados judeus-americanos e uma dona de cinema francesa planeiam separadamente a queda da liderança nazi.",
+    "imdb": 8.4,
+    "poster": "https://placehold.co/400x600/4a1b1b/e0b84a?text=Bastardos+Inglórios&font=playfair-display"
+  },
+  {
+    "id": 29,
+    "title": "Cidade de Deus",
+    "year": 2002,
+    "genre": "Crime",
+    "director": "Fernando Meirelles",
+    "actors": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Matheus Nachtergaele"
+    ],
+    "plot": "Duas crianças de uma favela do Rio de Janeiro seguem caminhos opostos: uma torna-se fotógrafo, a outra mergulha no crime.",
+    "imdb": 8.6,
+    "poster": "https://placehold.co/400x600/2b2b2b/c9a227?text=Cidade+de+Deus&font=playfair-display"
+  },
+  {
+    "id": 30,
+    "title": "O Labirinto do Fauno",
+    "year": 2006,
+    "genre": "Fantasia",
+    "director": "Guillermo del Toro",
+    "actors": [
+      "Ivana Baquero",
+      "Sergi López",
+      "Maribel Verdú"
+    ],
+    "plot": "Numa Espanha pós-guerra civil, uma menina encontra um labirinto mágico que a submete a três provas perigosas.",
+    "imdb": 8.2,
+    "poster": "https://placehold.co/400x600/2a1b4a/c9a2ff?text=O+Labirinto+do+Fauno&font=playfair-display"
+  },
+  {
+    "id": 31,
+    "title": "A Chegada",
+    "year": 2016,
+    "genre": "Ficção Científica",
+    "director": "Denis Villeneuve",
+    "actors": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker"
+    ],
+    "plot": "Uma linguista é recrutada pelo exército para decifrar a comunicação de naves alienígenas pousadas em vários pontos do planeta.",
+    "imdb": 7.9,
+    "poster": "https://placehold.co/400x600/1b2a4a/8fd3ff?text=A+Chegada&font=playfair-display"
+  },
+  {
+    "id": 32,
+    "title": "Duna",
+    "year": 2021,
+    "genre": "Ficção Científica",
+    "director": "Denis Villeneuve",
+    "actors": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac"
+    ],
+    "plot": "O herdeiro de uma casa nobre parte para um planeta desértico rico na especiaria mais valiosa do universo.",
+    "imdb": 8.0,
+    "poster": "https://placehold.co/400x600/1b2a4a/8fd3ff?text=Duna&font=playfair-display"
+  },
+  {
+    "id": 33,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "Aventura",
+    "director": "Steven Spielberg",
+    "actors": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "plot": "Um parque temático com dinossauros clonados descontrola-se quando os sistemas de segurança falham durante uma tempestade.",
+    "imdb": 8.2,
+    "poster": "https://placehold.co/400x600/1b3a4a/ffd166?text=Jurassic+Park&font=playfair-display"
+  },
+  {
+    "id": 34,
+    "title": "Gladiador II",
+    "year": 2024,
+    "genre": "Ação",
+    "director": "Ridley Scott",
+    "actors": [
+      "Paul Mescal",
+      "Denzel Washington",
+      "Pedro Pascal"
+    ],
+    "plot": "Anos depois da queda de Máximo, um novo herói é forçado a entrar na arena para desafiar o poder corrupto de Roma.",
+    "imdb": 6.5,
+    "poster": "https://placehold.co/400x600/4a1b1b/e0b84a?text=Gladiador+II&font=playfair-display"
+  },
+  {
+    "id": 35,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "genre": "Drama",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Robert Downey Jr."
+    ],
+    "plot": "A vida do físico que liderou o desenvolvimento da bomba atómica e o peso moral que carregou pelo resto da vida.",
+    "imdb": 8.3,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=Oppenheimer&font=playfair-display"
+  },
+  {
+    "id": 36,
+    "title": "Barbie",
+    "year": 2023,
+    "genre": "Comédia",
+    "director": "Greta Gerwig",
+    "actors": [
+      "Margot Robbie",
+      "Ryan Gosling",
+      "America Ferrera"
+    ],
+    "plot": "Uma boneca vivendo num mundo perfeito é forçada a confrontar o mundo real e questionar a sua própria identidade.",
+    "imdb": 6.9,
+    "poster": "https://placehold.co/400x600/4a3b1b/ffe08a?text=Barbie&font=playfair-display"
+  },
+  {
+    "id": 37,
+    "title": "Se Beber, Não Case!",
+    "year": 2009,
+    "genre": "Comédia",
+    "director": "Todd Phillips",
+    "actors": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis"
+    ],
+    "plot": "Três amigos acordam sem memória após uma despedida de solteiro em Las Vegas e precisam de encontrar o noivo desaparecido.",
+    "imdb": 7.7,
+    "poster": "https://placehold.co/400x600/4a3b1b/ffe08a?text=Se+Beber,+Não+Case!&font=playfair-display"
+  },
+  {
+    "id": 38,
+    "title": "Como Perder um Homem em 10 Dias",
+    "year": 2003,
+    "genre": "Comédia",
+    "director": "Donald Petrie",
+    "actors": [
+      "Kate Hudson",
+      "Matthew McConaughey",
+      "Adam Goldberg"
+    ],
+    "plot": "Uma jornalista tenta afastar um homem propositadamente para um artigo, sem saber que ele apostou que a conquistaria.",
+    "imdb": 6.4,
+    "poster": "https://placehold.co/400x600/4a3b1b/ffe08a?text=Como+Perder+um+Homem+em+10+Dias&font=playfair-display"
+  },
+  {
+    "id": 39,
+    "title": "Superbad",
+    "year": 2007,
+    "genre": "Comédia",
+    "director": "Greg Mottola",
+    "actors": [
+      "Jonah Hill",
+      "Michael Cera",
+      "Christopher Mintz-Plasse"
+    ],
+    "plot": "Dois amigos do secundário embarcam numa noite caótica para comprar álcool antes de se separarem para a universidade.",
+    "imdb": 7.6,
+    "poster": "https://placehold.co/400x600/4a3b1b/ffe08a?text=Superbad&font=playfair-display"
+  },
+  {
+    "id": 40,
+    "title": "A Grande Aposta",
+    "year": 2015,
+    "genre": "Comédia",
+    "director": "Adam McKay",
+    "actors": [
+      "Christian Bale",
+      "Steve Carell",
+      "Ryan Gosling"
+    ],
+    "plot": "Um grupo de investidores excêntricos apercebe-se antecipadamente do colapso do mercado imobiliário de 2008 e aposta contra ele.",
+    "imdb": 7.8,
+    "poster": "https://placehold.co/400x600/4a3b1b/ffe08a?text=A+Grande+Aposta&font=playfair-display"
+  },
+  {
+    "id": 41,
+    "title": "Os Suspeitos do Costume",
+    "year": 1995,
+    "genre": "Crime",
+    "director": "Bryan Singer",
+    "actors": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Chazz Palminteri"
+    ],
+    "plot": "Cinco criminosos reúnem-se numa fila de identificação policial e acabam envolvidos num golpe orquestrado por uma figura misteriosa.",
+    "imdb": 8.5,
+    "poster": "https://placehold.co/400x600/2b2b2b/c9a227?text=Os+Suspeitos+do+Costume&font=playfair-display"
+  },
+  {
+    "id": 42,
+    "title": "Prisioneiros",
+    "year": 2013,
+    "genre": "Drama",
+    "director": "Denis Villeneuve",
+    "actors": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis"
+    ],
+    "plot": "Um pai desesperado toma a lei nas próprias mãos após o desaparecimento da filha, enquanto um detetive investiga o caso.",
+    "imdb": 8.1,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=Prisioneiros&font=playfair-display"
+  },
+  {
+    "id": 43,
+    "title": "Ligações Perigosas",
+    "year": 1988,
+    "genre": "Romance",
+    "director": "Stephen Frears",
+    "actors": [
+      "Glenn Close",
+      "John Malkovich",
+      "Michelle Pfeiffer"
+    ],
+    "plot": "Dois aristocratas franceses disputam um jogo cruel de sedução e manipulação na alta sociedade do século XVIII.",
+    "imdb": 7.6,
+    "poster": "https://placehold.co/400x600/5a2436/f2c6d9?text=Ligações+Perigosas&font=playfair-display"
+  },
+  {
+    "id": 44,
+    "title": "Diário de uma Paixão",
+    "year": 2004,
+    "genre": "Romance",
+    "director": "Nick Cassavetes",
+    "actors": [
+      "Ryan Gosling",
+      "Rachel McAdams",
+      "James Garner"
+    ],
+    "plot": "Um homem lê a um idoso a história de amor de um casal separado por diferenças sociais e pela Segunda Guerra Mundial.",
+    "imdb": 7.8,
+    "poster": "https://placehold.co/400x600/5a2436/f2c6d9?text=Diário+de+uma+Paixão&font=playfair-display"
+  },
+  {
+    "id": 45,
+    "title": "Orgulho e Preconceito",
+    "year": 2005,
+    "genre": "Romance",
+    "director": "Joe Wright",
+    "actors": [
+      "Keira Knightley",
+      "Matthew Macfadyen",
+      "Brenda Blethyn"
+    ],
+    "plot": "Numa Inglaterra do século XIX, uma jovem de espírito independente entra em conflito e depois se apaixona por um aristocrata orgulhoso.",
+    "imdb": 7.8,
+    "poster": "https://placehold.co/400x600/5a2436/f2c6d9?text=Orgulho+e+Preconceito&font=playfair-display"
+  },
+  {
+    "id": 46,
+    "title": "Corra!",
+    "year": 2017,
+    "genre": "Terror",
+    "director": "Jordan Peele",
+    "actors": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford"
+    ],
+    "plot": "Um jovem afro-americano visita a família da namorada e descobre um segredo perturbador escondido sob a hospitalidade da casa.",
+    "imdb": 7.7,
+    "poster": "https://placehold.co/400x600/1a1a1a/8b2635?text=Corra!&font=playfair-display"
+  },
+  {
+    "id": 47,
+    "title": "Hereditário",
+    "year": 2018,
+    "genre": "Terror",
+    "director": "Ari Aster",
+    "actors": [
+      "Toni Collette",
+      "Alex Wolff",
+      "Milly Shapiro"
+    ],
+    "plot": "Após a morte da avó, uma família começa a desvendar segredos sombrios ligados a uma herança sinistra.",
+    "imdb": 7.3,
+    "poster": "https://placehold.co/400x600/1a1a1a/8b2635?text=Hereditário&font=playfair-display"
+  },
+  {
+    "id": 48,
+    "title": "O Iluminado",
+    "year": 1980,
+    "genre": "Terror",
+    "director": "Stanley Kubrick",
+    "actors": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "plot": "Um escritor aceita cuidar de um hotel isolado no inverno e é lentamente consumido pela loucura e por forças sobrenaturais.",
+    "imdb": 8.4,
+    "poster": "https://placehold.co/400x600/1a1a1a/8b2635?text=O+Iluminado&font=playfair-display"
+  },
+  {
+    "id": 49,
+    "title": "Corra Lola Corra",
+    "year": 1998,
+    "genre": "Aventura",
+    "director": "Tom Tykwer",
+    "actors": [
+      "Franka Potente",
+      "Moritz Bleibtreu",
+      "Herbert Knaup"
+    ],
+    "plot": "Uma jovem tem vinte minutos para arranjar uma grande quantia em dinheiro e salvar o namorado, em três desfechos possíveis.",
+    "imdb": 7.7,
+    "poster": "https://placehold.co/400x600/1b3a4a/ffd166?text=Corra+Lola+Corra&font=playfair-display"
+  },
+  {
+    "id": 50,
+    "title": "Indiana Jones e os Salteadores da Arca Perdida",
+    "year": 1981,
+    "genre": "Aventura",
+    "director": "Steven Spielberg",
+    "actors": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman"
+    ],
+    "plot": "Um arqueólogo aventureiro corre contra o tempo para impedir que os nazis encontrem a lendária Arca da Aliança.",
+    "imdb": 8.4,
+    "poster": "https://placehold.co/400x600/1b3a4a/ffd166?text=Indiana+Jones+e+os+Salteadores+da+Arca+Perdida&font=playfair-display"
+  },
+  {
+    "id": 51,
+    "title": "Como Treinar o Teu Dragão",
+    "year": 2010,
+    "genre": "Animação",
+    "director": "Dean DeBlois",
+    "actors": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "America Ferrera"
+    ],
+    "plot": "Um jovem viking desafia as tradições da sua tribo ao criar uma amizade improvável com um dragão ferido.",
+    "imdb": 8.1,
+    "poster": "https://placehold.co/400x600/1b4a3a/ffd166?text=Como+Treinar+o+Teu+Dragão&font=playfair-display"
+  },
+  {
+    "id": 52,
+    "title": "Divertida Mente",
+    "year": 2015,
+    "genre": "Animação",
+    "director": "Pete Docter",
+    "actors": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Bill Hader"
+    ],
+    "plot": "Dentro da mente de uma menina que muda de cidade, cinco emoções lutam para a ajudar a lidar com a mudança.",
+    "imdb": 8.1,
+    "poster": "https://placehold.co/400x600/1b4a3a/ffd166?text=Divertida+Mente&font=playfair-display"
+  },
+  {
+    "id": 53,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "genre": "Ação",
+    "director": "Jon Watts",
+    "actors": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch"
+    ],
+    "plot": "Após a sua identidade ser revelada, Peter Parker pede ajuda mágica que acaba por abrir as portas do multiverso.",
+    "imdb": 8.2,
+    "poster": "https://placehold.co/400x600/4a1b1b/e0b84a?text=Spider-Man:+No+Way+Home&font=playfair-display"
+  },
+  {
+    "id": 54,
+    "title": "Mad Max: Estrada da Fúria",
+    "year": 2015,
+    "genre": "Ação",
+    "director": "George Miller",
+    "actors": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "plot": "Num deserto pós-apocalíptico, uma guerreira rebelde ajuda um grupo de fugitivas a escapar de um tirano tribal.",
+    "imdb": 8.1,
+    "poster": "https://placehold.co/400x600/4a1b1b/e0b84a?text=Mad+Max:+Estrada+da+Fúria&font=playfair-display"
+  },
+  {
+    "id": 55,
+    "title": "John Wick",
+    "year": 2014,
+    "genre": "Ação",
+    "director": "Chad Stahelski",
+    "actors": [
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Alfie Allen"
+    ],
+    "plot": "Um ex-assassino profissional sai da reforma para se vingar dos gangsters que lhe mataram o cão, último presente da esposa falecida.",
+    "imdb": 7.4,
+    "poster": "https://placehold.co/400x600/4a1b1b/e0b84a?text=John+Wick&font=playfair-display"
+  },
+  {
+    "id": 56,
+    "title": "A Substância",
+    "year": 2024,
+    "genre": "Terror",
+    "director": "Coralie Fargeat",
+    "actors": [
+      "Demi Moore",
+      "Margaret Qualley",
+      "Dennis Quaid"
+    ],
+    "plot": "Uma antiga estrela de televisão usa uma substância experimental para gerar uma versão mais jovem de si mesma, com consequências terríveis.",
+    "imdb": 7.3,
+    "poster": "https://placehold.co/400x600/1a1a1a/8b2635?text=A+Substância&font=playfair-display"
+  },
+  {
+    "id": 57,
+    "title": "Duna: Parte Dois",
+    "year": 2024,
+    "genre": "Ficção Científica",
+    "director": "Denis Villeneuve",
+    "actors": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson"
+    ],
+    "plot": "Paul Atreides une-se aos Fremen do deserto e traça um caminho de vingança contra os conspiradores que destruíram a sua família.",
+    "imdb": 8.5,
+    "poster": "https://placehold.co/400x600/1b2a4a/8fd3ff?text=Duna:+Parte+Dois&font=playfair-display"
+  },
+  {
+    "id": 58,
+    "title": "Emilia Pérez",
+    "year": 2024,
+    "genre": "Drama",
+    "director": "Jacques Audiard",
+    "actors": [
+      "Karla Sofía Gascón",
+      "Zoe Saldaña",
+      "Selena Gomez"
+    ],
+    "plot": "Uma advogada mexicana ajuda um líder de cartel a desaparecer e a viver uma nova vida sob uma identidade transformada.",
+    "imdb": 5.5,
+    "poster": "https://placehold.co/400x600/6b4226/f2ede4?text=Emilia+Pérez&font=playfair-display"
+  },
+  {
+    "id": 59,
+    "title": "A Bailarina",
+    "year": 2025,
+    "genre": "Ação",
+    "director": "Len Wiseman",
+    "actors": [
+      "Ana de Armas",
+      "Keanu Reeves",
+      "Norman Reedus"
+    ],
+    "plot": "Uma assassina treinada pela mesma organização de John Wick embarca numa missão pessoal de vingança implacável.",
+    "imdb": 6.5,
+    "poster": "https://placehold.co/400x600/4a1b1b/e0b84a?text=A+Bailarina&font=playfair-display"
+  }
+]
